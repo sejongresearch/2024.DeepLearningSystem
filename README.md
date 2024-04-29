@@ -39,7 +39,7 @@
 | 7-2 | 중간고사 | 중간범위 이론 및 실습 | 2024.04.17 | | |
 | 8-1 | 휴강(시험기간) | | 2024.04.22 | | |
 | 8-2 | 온라인 | 중간 실습 다시풀기 | 2024.04.24 | | [리더보드 1](https://www.kaggle.com/t/51de2dde467548d6a243571316f22b1a)<br> [리더보드 2](https://www.kaggle.com/t/8385979c95204651a1f6ffded5521939)<br> [리더보드 3](https://www.kaggle.com/t/ce6c2e0b229a4df9902207a00353aa80)<br> [리더보드 4](https://www.kaggle.com/t/42edd278ea554f98935af86cc6795702)<br> 과제 마감 5/5 |
-| 9-1 | 전이학습 | [PDF](https://github.com/sejongresearch/2024.DeepLearningSystem/blob/main/LectureNotes/%5B%E1%84%83%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A5%E1%84%82%E1%85%B5%E1%86%BC%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7%5D%5B6%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%20(2024)-0429.pdf) | 2024.04.29 | | [예제코드](https://www.kaggle.com/code/yukyungchoi/notebook7b6480b4fc) |
+| 9-1 | 전이학습 | [PDF](https://github.com/sejongresearch/2024.DeepLearningSystem/blob/main/LectureNotes/%5B%E1%84%83%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A5%E1%84%82%E1%85%B5%E1%86%BC%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7%5D%5B6%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%20(2024)-0429.pdf) | 2024.04.29 | | [예제코드](https://www.kaggle.com/code/sukzoon1234/240429-1/notebook) |
 | 9-2 | 전이학습 | | 2024.05.01 | | |
 
 
