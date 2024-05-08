@@ -42,6 +42,6 @@
 | 9-1 | 전이학습 | [PDF](https://github.com/sejongresearch/2024.DeepLearningSystem/blob/main/LectureNotes/%5B%E1%84%83%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A5%E1%84%82%E1%85%B5%E1%86%BC%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7%5D%5B6%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%20(2024)-0429.pdf) | 2024.04.29 | | [예제코드](https://www.kaggle.com/code/sukzoon1234/240429-1/notebook) |
 | 9-2 | 전이학습 | | 2024.05.01 | | [리더보드 1](https://www.kaggle.com/t/0064ff267f5d47e1975e1ec5f4028976)<br> [리더보드 2](https://www.kaggle.com/t/022e3c9d3d304bdaa4158b818ab095db) <br> 과제 마감 5/12|
 | 10-1 | 물체검출 | [PDF](https://github.com/sejongresearch/2024.DeepLearningSystem/blob/main/LectureNotes/%5B%E1%84%83%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A5%E1%84%82%E1%85%B5%E1%86%BC%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7%5D%5B7%E1%84%8C%E1%85%A1%E1%86%BC%5D%20%E1%84%89%E1%85%A1%E1%84%86%E1%85%AE%E1%86%AF%E1%84%90%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%B5%20(2024).pdf) |2024.05.06 | [동영상1](https://youtu.be/bHBAZZATSto) <br> [동영상2](https://youtu.be/GudDtw0NxBA) <br> [동영상3](https://youtu.be/IN8rC7BQE7s) | |
-| 10-2 | 물체검출 | | 2024.05.08 | | [리더보드](https://www.kaggle.com/t/0d177762239d43c79fab3ca2b8ee37d5)  |
+| 10-2 | 물체검출 | | 2024.05.08 | | [리더보드](https://www.kaggle.com/t/0d177762239d43c79fab3ca2b8ee37d5) <br> 과제 마감 5/19  |
 
 
