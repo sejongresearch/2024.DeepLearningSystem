@@ -33,30 +33,30 @@ LabelImage_for_window
      - 경로에 한글이 포함된 경우 데이터 읽어오는 과정이 수행되지 않을 수 있습니다.
      - 경로를 영어로 지정해주세요.
 
-![image]((https://github.com/sejongresearch/2024.DeepLearningSystem/blob/main/images/image3.png)
+![image](https://github.com/sejongresearch/2024.DeepLearningSystem/blob/main/images/image3.png)
 
 
 5. Drag 하여 Bounding Box를 선택하면 아래 그림과 같이 작은 창이 뜨게됩니다. <br> 해당 창은 방금 친 box에 대하여 class label을 부여하는 것으로, 2번 단계에서  txt 파일에 카테고리를 어떻게 설정했느냐에 따라서 보여지는 것이 달라집니다.
-![image]((https://github.com/sejongresearch/2024.DeepLearningSystem/blob/main/images/image4.png)
+![image](https://github.com/sejongresearch/2024.DeepLearningSystem/blob/main/images/image4.png)
 
 6. Save 버튼을 눌러 annotation 정보를 저장합니다.
-![image]((https://github.com/sejongresearch/2024.DeepLearningSystem/blob/main/images/image5.png)
+![image](https://github.com/sejongresearch/2024.DeepLearningSystem/blob/main/images/image5.png)
 
 - 한 장의 영상에 대해 annotation 수행 후 save 버튼을 누르고 다음 영상으로 넘어갑니다. 
 
 7. 5~6 과정을 train image 전체에 대해서 반복적으로 수행하여 annotation을 모두 마무리합니다.
-![image]((https://github.com/sejongresearch/2024.DeepLearningSystem/blob/main/images/image6.png)
+![image](https://github.com/sejongresearch/2024.DeepLearningSystem/blob/main/images/image6.png)
 
 8. 이후 제공해드린 [ROS2_Detection_Code](https://kaggle.com/datasets/ec2b4415401c4c9a560ee5e32b3e24d4c0900b497b7a37af086eeb92384f89d4) 에 직접 취득 및 annotation한 train_image를 업로드 후, 모델을 학습시켜 최종 checkpoint 파일을 생성하시면 됩니다.  업로드 과정은 아래와 같습니다.
 
-![image]((https://github.com/sejongresearch/2024.DeepLearningSystem/blob/main/images/image7.png)
+![image](https://github.com/sejongresearch/2024.DeepLearningSystem/blob/main/images/image7.png)
 
 ----
 -  한가지 팁을 드리면 labelImg에는 단축키가 존재합니다. 이는 아래와 같습니다.
-![image]((https://github.com/sejongresearch/2024.DeepLearningSystem/blob/main/images/image8.png)
+![image](https://github.com/sejongresearch/2024.DeepLearningSystem/blob/main/images/image8.png)
 
 - 또한 save 버튼을 매번 누르지 않고 자동으로 저장하는 기능을 키기 위해서는 좌측 상단 View - Auto Saving 항목을 체크해주시면 됩니다.
-![image]((https://github.com/sejongresearch/2024.DeepLearningSystem/blob/main/images/image9.png)
+![image](https://github.com/sejongresearch/2024.DeepLearningSystem/blob/main/images/image9.png)
 
 - 만약 에러가 발생하신다면, 좌측 상단의 ResetALL 버튼을 클릭한 후 다시 tool을 실행해보세요.
-![image]((https://github.com/sejongresearch/2024.DeepLearningSystem/blob/main/images/image10.png)
+![image](https://github.com/sejongresearch/2024.DeepLearningSystem/blob/main/images/image10.png)
