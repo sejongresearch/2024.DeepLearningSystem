@@ -45,8 +45,8 @@
 | 10-2 | 물체검출 | | 2024.05.08 | | [리더보드](https://www.kaggle.com/t/0d177762239d43c79fab3ca2b8ee37d5) <br> 과제 마감 5/19  |
 | * | 프로젝트설명서 | [PDF](https://github.com/sejongresearch/2024.DeepLearningSystem/blob/main/LectureNotes/ROS%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EA%B0%9C%EB%A1%A0.pdf) <br> [주제선정 Sheet](https://docs.google.com/spreadsheets/d/12K25CyG7OkvYWmg_8XfO4-2og99g8AY1_QlAEYF_SPs/edit#gid=729116519) | 2024.05.13 |  | [제안서](https://github.com/sejongresearch/2024.DeepLearningSystem/blob/main/TermProject.md) |
 | 11-1 | ROS2 이론 |  [이론](https://canyon-rhinoceros-bd0.notion.site/2024-ROS-2-764cafe73dd84c6cbc5605296a1a88a5), [실습-SSD](https://kaggle.com/datasets/ec2b4415401c4c9a560ee5e32b3e24d4c0900b497b7a37af086eeb92384f89d4)  | 2024.05.13 | | |
-| 11-2 | SSD 해설  | | 2024.05.15 | [영상](https://youtu.be/kFaeWck9TEA) | |
-| 12-1 | ROS2 실습 | Package, Topic | 2024.05.20 | 영상 | |
+| 11-2 | SSD 해설  | | 2024.05.15 | [동영상](https://youtu.be/kFaeWck9TEA) | |
+| 12-1 | ROS2 실습 | Package, Topic | 2024.05.20 | [동영상](https://youtu.be/4mrdAQFfe9g) | |
 | 12-2 | ROS2 실습 | Service, Action | 2024.05.22 | 영상 | |
 | 13 | 프로젝트 | | 2024.05.27/29 |  | |
 | 14 | 프로젝트 | | 2024.06.03/05 |  | |
