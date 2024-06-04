@@ -53,6 +53,6 @@
 | 14 | 프로젝트 | | 2024.06.03/05 |  | |
 | 15-1 | 프로젝트 | | 2024.06.10 |  | |
 | 15-2 | 기말고사 | | 2024.06.12 |  | |
-| 15 | 프로젝트 | | 2024.06.17/19 | | [최종제출](https://github.com/sejongresearch/2024.DeepLearningSystem/blob/main/TermProject.md#2-%EC%B5%9C%EC%A2%85-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C-%EB%B0%8F-%EB%B0%9C%ED%91%9C%EC%98%81%EC%83%81)|
+| 15 | 프로젝트 | | 2024.06.17/19 | | [최종제출](https://github.com/sejongresearch/2024.DeepLearningSystem/blob/main/TermProject.md#2-%EC%B5%9C%EC%A2%85-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C-%EB%B0%8F-%EB%B0%9C%ED%91%9C%EC%98%81%EC%83%81) <br> 과제 마감 6/19|
 
 
